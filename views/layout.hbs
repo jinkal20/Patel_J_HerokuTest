@@ -3,8 +3,17 @@
   <head>
     <title>{{title}}</title>
     <link rel='stylesheet' href='/stylesheets/style.css' />
+    <link rel='stylesheet' href='/stylesheets/master.css' />
   </head>
   <body>
+    <a href="/">Home</a>
+    <h1>Anything below me will come from routes</h1>
+
+    <!-- triple handlers are shorthand for router view-->
     {{{body}}}
+
+    <h3>I am inside router view</h3>
+    <a href="/user1">user1</a>
+    <a href="/user2">user2</a>
   </body>
 </html>
