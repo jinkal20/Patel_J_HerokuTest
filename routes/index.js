@@ -5,7 +5,7 @@ const data = require('../data');
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Your first express app', message:'Express is easy once you figure' });
+  res.render('index', { title: 'Welcome to Fanshawe College', message:'' });
 });
 
 //get data with router
