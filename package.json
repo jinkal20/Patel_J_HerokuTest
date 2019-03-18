@@ -12,5 +12,17 @@
     "hbs": "~4.0.1",
     "http-errors": "~1.6.2",
     "morgan": "~1.9.0"
-  }
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinkal20/Patel_J_HerokuTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinkal20/Patel_J_HerokuTest/issues"
+  },
+  "homepage": "https://github.com/jinkal20/Patel_J_HerokuTest#readme",
+  "description": ""
 }
