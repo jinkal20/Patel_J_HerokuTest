@@ -1,18 +1,2 @@
-body {
-    padding: 50px;
-    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-    background-color: orangered;
-  }
-  
-  a {
-    color: #00B7FF;
-  }
-  
-  #setimg{
-    height: 150px;
-    width: 200px;
-  }
-
-.location{
-    background-color: red;
-}
+body{background:#000;color:#fff;font-size:14px}a{text-decoration:none;color:white;text-transform:uppercase}body{background-color:#D3D3D3}.para{padding-top:50px;background-color:red;padding-bottom:50px}.location{padding-top:50px;background-color:red;padding-bottom:50px}.program{padding-top:50px;background-color:grey;padding-bottom:50px}h1{color:black}.ft{padding-bottom:50px;padding-top:50px;background-color:grey;font-size:30px;text-align:center}#setimg{padding-top:80px;padding-left:50px}
+/*# sourceMappingURL=master.css.map */
